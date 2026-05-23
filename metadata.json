@@ -1,0 +1,8 @@
+{
+  "name": "Shifa Clinic - شفا لإدارة العيادات",
+  "description": "نظام ذكي لإدارة العيادة الطبية يشمل حجز المواعيد، ملفات المرضى الإلكترونية، سجلات الأدوية والروشتات، مع ميزة التصدير التلقائي لبيانات العملاء في ملفات إكسل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
